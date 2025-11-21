@@ -1,0 +1,4 @@
+Alvo: QUANTIDADE_ESTOQUE
+Features: ID_PRODUTO, DATA_EVENTO, PRECO, FLAG_PROMOCAO
+Interpretacao de DATA_EVENTO: habilitada
+Modo de treinamento: AutoML (SageMaker Canvas)
