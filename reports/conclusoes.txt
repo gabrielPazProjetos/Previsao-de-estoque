@@ -1,4 +1,9 @@
---- Conclusões do modelo de previsão de estoque:
-- Promoções reduzem o estoque de forma acelerada.
-- Preços mais altos tendem a manter maior quantidade em estoque.
-- O modelo pode apoiar decisões de reposição e campanhas de marketing.
+Alvo: QUANTIDADE_ESTOQUE
+Features: ID_PRODUTO, DATA_EVENTO, PRECO, FLAG_PROMOCAO
+DATA_EVENTO como data
+Treinamento automático
+Promoções reduzem estoque
+Preços mais altos mantêm estoque
+Efeitos temporais presentes
+Re-treinamento periódico recomendado
+Uso: reposição, precificação, campanhas
