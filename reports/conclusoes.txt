@@ -1,0 +1,4 @@
+--- Conclusões do modelo de previsão de estoque:
+- Promoções reduzem o estoque de forma acelerada.
+- Preços mais altos tendem a manter maior quantidade em estoque.
+- O modelo pode apoiar decisões de reposição e campanhas de marketing.
